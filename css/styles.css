@@ -5,13 +5,17 @@ body{
 	background: url("../img/grey_wall.png") repeat;
 	font-family: 'Abril Fatface', cursive;
 }
-h1{
+h1
+{font-size:40px;
 	color:#F91FD2;
+	background: black;
+	padding:25px;
 }
 
 h3{
 	font-size:24px ;
-	color:#710A86;
+	color:#BE0DC8;
+	background: black;
 }
 
 /* Show Grid */
