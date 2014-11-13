@@ -1,7 +1,20 @@
 /* Your Website Styles */
 
+body{
+
+	background: url("../img/grey_wall.png") repeat;
+	font-family: 'Abril Fatface', cursive;
+}
+h1{
+	color:#F91FD2;
+}
+
+h3{
+	font-size:24px ;
+	color:#710A86;
+}
 
 /* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+{
+	background: url("../img/grey_wall.png") repeat;
 }
